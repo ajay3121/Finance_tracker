@@ -77,3 +77,4 @@ end
 
 gem "devise", "~> 4.9"
 gem 'devise-semantified', git: 'https://github.com/ajex13/devise-semantified.git'
+gem 'iex-ruby-client'
